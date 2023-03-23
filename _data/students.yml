@@ -7,6 +7,15 @@
 #  education2:
 #  education3:
 #  education4:
+- name: Mengqi Li(Lina)
+  photo: Lina.jpg
+  info: Postdoctoral
+  Research_Interest: AI-based intervention, Psychosocial rehabilitation, Health manpower
+  email: mengqi28.li@polyu.edu.hk
+  number_educ: 3
+  education1: Doctor of Medicine, Sun Yat-sen University, 2022 
+  education2: Visiting Scholar, Oregon Health & Science University, 2019
+  education3: Bachelor of Medicine, Huazhong University of Science & Technology, 2015
 
 - name: Mengting HE (Mandy)
   photo: mandy.jpg
