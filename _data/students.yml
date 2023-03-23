@@ -17,88 +17,59 @@
   education2: Visiting Scholar, Oregon Health & Science University, 2019
   education3: Bachelor of Medicine, Huazhong University of Science & Technology, 2015
 
+- name: Lee Kit Ching 李潔貞 (Ada) 
+  photo: Ada.jpg
+  info: Research Assistant 
+  research_interest: Psychology-based intervention 
+  email: kchinlee@polyu.edu.hk 
+  number_educ: 2
+  education1: Master of Applied Psychology, The Hong Kong Polytechnic University, 2021 
+  education2: Bachelor of Social Sciences (Honours) in Psychology, School of Professional Education and Executive Development, 2020
+
+- name: Law Ka Kit 羅嘉傑 (Jack)
+  photo: Jack.jpg
+  info: Research Assistant
+  research_interest: Motivational interviewing, Addiction, Public health promotion
+  email: kklaw@polyu.edu.hk
+  number_educ: 1
+  education1: BSc (Psychology), Upper Iowa University (2015)
+
+- name: LAM YIM PING 林艷萍 (MOMO) 
+  photo: Ada.jpg
+  info: Research Assistant, Social Worker, Social Workers Registration Board, HK
+  research_interest: Social psychology, Psychosocial interventions
+  email: momo2.lam@polyu.edu.hk
+  number_educ: 2
+  education1: Master in Early Childhood Education, The Chinese University of Hong Kong, 2021
+  education2: BSSs (Hons) in Psychology, School of Professional Education and Executive Development, The Hong Kong Polytechnic University, 2021
+
+
+
+
 - name: Mengting HE (Mandy)
   photo: mandy.jpg
   info: Research Assistant 
+  research_interest: xxxxxx
   email: menghe@polyu.edu.hk
   number_educ: 2
   education1: MSc, The Hong Kong University of Science and Technology, 2022
   education2: B.Eng, Xiang’tan University, 2018
 
-- name: Bailun Jiang (姜百倫)
-  photo: bailun.png
-  info: PhD Student (Co-supervise)
-  email: bai-lun.jiang@connect.polyu.hk
+- name: Jiaying LI (Janice)
+  photo: Janice.jpg
+  info: Research Assistant 
+  research_interest: Mental health promotion; Adolescent idiopathic scoliosis rehabilitation
+  email: xxxxxx
   number_educ: 2
-  education1: MSc, The Hong Kong Polytechnic University, 2020
-  education2: B.Eng, The Hong Kong Polytechnic University, 2018
+  education1: Master in Nursing, Xi'an Jiaotong University, 2022
+  education2: Bachelor of Natural Science, China Medical University, 2019
 
-- name: Yefeng Yang (楊燁峰)
-  photo: yefeng.jpg
-  info: PhD Student (Co-supervise)
-  email: yefeng.yang@connect.polyu.hk
-  number_educ: 2
-  education2: Joint-PhD program, Harbin Engineering University
-  education1: B.Eng, Harbin Institute of Technology, 2017
-  
-- name: Wenyu Yang (楊雯語)
-  photo: wenyu.jpg
-  info: PhD Student (Co-supervise)
-  email: allen.yang@connect.polyu.hk
-  number_educ: 2
-  education1: M.Eng, Harbin Institute of Technology, 2021
-  education2: B.Eng, Ocean University of China, 2019
-
-- name: Qihang Peng (彭啟航)
-  photo: Qihang.jpg
-  info: PhD Student (Co-supervise)
-  email: qihang1.peng@connect.polyu.hk
-  number_educ: 2
-  education1: MSc, University of Southern California, 2020
-  education2: B.Eng, University of Electronic Science and Technology of China, 2018
-
-- name: Li-yu Lo (羅立宇)
-  photo: Pat.png
-  info: PhD Student (Co-supervise)
-  email: 7086854d@connect.polyu.hk
+- name: CHUNG Tsz-yu 鍾子裕(Mark)
+  photo: Mark.jpg
+  info: Master Student
+  research_interest: AI-based intervention
+  email: xxxxxx
   number_educ: 1
-  education1: B.Eng, The Hong Kong Polytechnic University, 2021
-
-- name: Ho Wang Tong (Canning)
-  photo: TongHoWang.png
-  info: PhD Student (Co-supervise)
-  email: canning.tong@connect.polyu.hk
-  number_educ: 1
-  education1: B.Eng, The Hong Kong Polytechnic University, 2021
-
-- name: Tao Huang (黃濤) 
-  photo: Tao.png
-  info: PhD Student (Co-supervise)
-  email: tao755.huang@connect.polyu.hk
-  number_educ: 2
-  education1: Joint-PhD program, Harbin Institute of Technology
-  education2: B.Eng,Harbin Engineering University , 2018
-
-- name: Yang Hu (胡陽)
-  photo: Yang_Hu.jpg
-  info: MPhil Student (Co-supervise)
-  email: yang-h.hu@connect.polyu.hk
-  number_educ: 1
-  education1: B.Eng, The University of Sydney, 2022
-
-- name: Hiu Ching Cheung (Athena)
-  photo: Athena.png
-  info: MPhil Student (Co-supervise)
-  email: hiu-ching-athena.cheung@connect.polyu.hk
-  number_educ: 1
-  education1: B.Eng, The Hong Kong Polytechnic University, 2022
-
-- name: Haochen Hu (胡昊琛)
-  photo: haochen.jpg
-  info: PhD Student (Co-supervise)
-  email: hao-chen.hu@connect.polyu.hk
-  number_educ: 2
-  education1: MSc, The Hong Kong Polytechnic University, 2020
-  education2: B.Eng, Nanjing University of Aeronautics and Astronautics, 2019
+  education1: Bachelor of Science (Honours) in Mental Health Nursing, The Hong Kong Polytechnic University, 2020
 
 
