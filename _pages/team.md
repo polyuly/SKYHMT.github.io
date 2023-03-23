@@ -171,6 +171,8 @@ permalink: /team/
   <li> {{ member.education4 }} </li>
   {% endif %}
   </ul>
+  <i>Research Interest: {{ member.research_interest }}</i>
+
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
