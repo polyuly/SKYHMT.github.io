@@ -1,4 +1,4 @@
-# Autonomous Aerial Systems Group
+# Polyu Nursing Group
 
 This is the website of academic research group at Interdisciplinary Division of Aeronautical and Aviation Engineering，The Hong Kong Polytechnic University.
 

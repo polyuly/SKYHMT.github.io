@@ -1,7 +1,7 @@
 ---
-title: "Autonomous Aerial Systems Group - Home"
+title: "Polyu Nursing Group: - Home"
 layout: homelay
-excerpt: "Autonomous Aerial Systems Group at HK PolyU"
+excerpt: "Nursing Group: Group at HK PolyU"
 sitemap: false
 permalink: /
 ---
