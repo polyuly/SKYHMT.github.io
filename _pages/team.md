@@ -188,7 +188,7 @@ permalink: /team/
 
 ## Undergraduate Student
 {% assign number_printed = 0 %}
-{% for member in site.data.ug_student_members %}
+{% for member in site.data.students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -198,9 +198,9 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-
+  <i>{{ member.info }}<br>email: <{{ member.email }}><br>Research Interest: {{ member.research_interest }}</i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -225,6 +225,7 @@ permalink: /team/
   <li> {{ member.education4 }} </li>
   {% endif %}
   </ul>
+
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
