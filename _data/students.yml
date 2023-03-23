@@ -27,7 +27,7 @@
   education2: Bachelor of Social Sciences (Honours) in Psychology, School of Professional Education and Executive Development, 2020
 
 - name: Law Ka Kit 羅嘉傑 (Jack)
-  photo: Jack.jpg
+  photo: Jack.png
   info: Research Assistant
   research_interest: Motivational interviewing, Addiction, Public health promotion
   email: kklaw@polyu.edu.hk
@@ -35,16 +35,13 @@
   education1: BSc (Psychology), Upper Iowa University (2015)
 
 - name: LAM YIM PING 林艷萍 (MOMO) 
-  photo: Ada.jpg
+  photo: Mono.png
   info: Research Assistant, Social Worker, Social Workers Registration Board, HK
   research_interest: Social psychology, Psychosocial interventions
   email: momo2.lam@polyu.edu.hk
   number_educ: 2
   education1: Master in Early Childhood Education, The Chinese University of Hong Kong, 2021
   education2: BSSs (Hons) in Psychology, School of Professional Education and Executive Development, The Hong Kong Polytechnic University, 2021
-
-
-
 
 - name: Mengting HE (Mandy)
   photo: mandy.jpg
@@ -69,7 +66,8 @@
   info: Master Student
   research_interest: AI-based intervention
   email: xxxxxx
-  number_educ: 1
-  education1: Bachelor of Science (Honours) in Mental Health Nursing, The Hong Kong Polytechnic University, 2020
+  number_educ: 2
+  education1: Master of Nursing, The Hong Kong Polytechnic University, 2024
+  education2: Bachelor of Science (Honours) in Mental Health Nursing, The Hong Kong Polytechnic University, 2020
 
 
