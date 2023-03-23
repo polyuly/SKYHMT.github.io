@@ -1,7 +1,7 @@
 ---
 title: " Group - Team"
 layout: gridlay
-excerpt: "Autonomous Aerial Systems Group: Team members"
+excerpt: "Polyu Nursing Group: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -188,7 +188,7 @@ permalink: /team/
 
 ## Undergraduate Student
 {% assign number_printed = 0 %}
-{% for member in site.data.ug_members %}
+{% for member in site.data.ug_student_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
