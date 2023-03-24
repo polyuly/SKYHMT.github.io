@@ -1,4 +1,4 @@
-# Autonomous Aerial Systems Group
+# Autonomous Aerial Systems Group12
 
 This is the website of academic research group at Interdisciplinary Division of Aeronautical and Aviation Engineering，The Hong Kong Polytechnic University.
 
