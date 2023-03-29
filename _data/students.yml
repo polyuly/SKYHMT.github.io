@@ -17,6 +17,14 @@
   education2: Visiting Scholar, Oregon Health & Science University, 2019
   education3: Bachelor of Medicine, Huazhong University of Science & Technology, 2015
 
+- name: Law Ka Kit 羅嘉傑
+  photo: Jack.png
+  info: Research Assistant
+  research_interest: Motivational interviewing, Addiction, Public health promotion
+  email: kklaw@polyu.edu.hk
+  number_educ: 1
+  education1: BSc (Psychology), Upper Iowa University (2015)
+
 - name: Lee Kit Ching 李潔貞
   photo: Ada.jpg
   info: Research Assistant 
@@ -26,13 +34,14 @@
   education1: Master of Applied Psychology, The Hong Kong Polytechnic University, 2021 
   education2: Bachelor of Social Sciences (Honours) in Psychology, School of Professional Education and Executive Development, 2020
 
-- name: Law Ka Kit 羅嘉傑
-  photo: Jack.png
+- name: Tsz Ching Sun 孫芷晴
+  photo: SallyRA.jpg
   info: Research Assistant
-  research_interest: Motivational interviewing, Addiction, Public health promotion
-  email: kklaw@polyu.edu.hk
-  number_educ: 1
-  education1: BSc (Psychology), Upper Iowa University (2015)
+  email: tchingsun@polyu.edu.hk
+  Research Interest: Psychological intervention
+  number_educ: 2
+  education1: Master of Applied Psychology, The Hong Kong Polytechnic University, 2021
+  education2: B.S, The Hong Kong Polytechnic University, 2020
 
 - name: LAM YIM PING 林艷萍
   photo: Mono.png
@@ -51,15 +60,6 @@
   number_educ: 2
   education1: MSc, The Hong Kong University of Science and Technology, 2022
   education2: B.Eng, Xiang’tan University, 2018
-
-- name: Tsz Ching Sun 孫芷晴
-  photo: SallyRA.jpg
-  info: Research Assistant
-  email: tchingsun@polyu.edu.hk
-  Research Interest: Psychological intervention
-  number_educ: 2
-  education1: Master of Applied Psychology, The Hong Kong Polytechnic University, 2021
-  education2: B.S, The Hong Kong Polytechnic University, 2020
   
 - name: Jiaying LI 李佳颖
   photo: Janice.jpg
