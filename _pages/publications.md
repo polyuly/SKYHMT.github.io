@@ -1,7 +1,7 @@
 ---
-title: "AAV Group - Publications"
+title: "Polyu Nursing - Publications"
 layout: gridlay
-excerpt: "AAV Group -- Publications."
+excerpt: "Polyu Nursing -- Publications."
 sitemap: false
 permalink: /publications/
 ---

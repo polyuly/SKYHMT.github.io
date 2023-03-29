@@ -1,7 +1,7 @@
 ---
-title: "AAV Group - Research"
+title: "Polyu Nursing - Research"
 layout: textlay
-excerpt: "AAV Group -- Research"
+excerpt: "Polyu Nursing -- Research"
 sitemap: false
 permalink: /research/
 ---

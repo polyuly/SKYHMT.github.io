@@ -1,7 +1,7 @@
 ---
-title: "AAV Group - Gallery"
+title: "Polyu Nursing - Gallery"
 layout: piclay
-excerpt: "AAV Group -- Gallery"
+excerpt: "Polyu Nursing -- Gallery"
 permalink: /pictures/
 ---
 
