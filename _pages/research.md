@@ -9,13 +9,12 @@ permalink: /research/
 # Research
 
 ## Research fields
-1. Development of novel UAV/UAS configurations such as vertical takeoff and landing (VTOL) tail-sitter;
-2. Application of advanced control theories such as model predictive control (MPC) to improve the flight performance;
-3. Robotic path/trajectory optimization to improve the autonomous level and efficiency;
-4. Field experiments of aerial/underwater/ground mobile robotic systems.
+1. Spinal Cord Injury Rehabilitation;
+2. Psychosocial interventions (e.g., coping-based, mindfulness-based, Motivational interviewing, psychoeducation);
+3. Mental Health Promotion / Technologies (e.g., AI-based, web-based, chatbot) in healthcare interventions.
 
 ## Group Github
-[UAV Lab - HKPolyU](https://github.com/HKPolyU-UAV)
+[Nursing Lab - HKPolyU]()
 
 ## Research videos
 
