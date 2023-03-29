@@ -18,9 +18,9 @@ permalink: /research/
 
 ## Research videos
 
-### Dynamic Object Tracking on Autonomous UAV System
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tY16YnZQoB4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Lo, L.-Y.; Yiu, C.H.; Tang, Y.; Yang, A.-S.; Li, B.; Wen, C.-Y. Dynamic Object Tracking on Autonomous UAV System for Surveillance Applications. Sensors 2021, 21, 7888. <i class="fa fa-download"></i> [Download](https://www.mdpi.com/1424-8220/21/23/7888/pdf)
+### AI-driven Vaccine Communicator
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YvqXJh0Huxw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Yan Li.; . <i class="fa fa-download"></i> [Download]()
 
 ### End to end UAV Simulation Platform (EE2S)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9BQMSVQlo7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
