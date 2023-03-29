@@ -8,12 +8,9 @@ permalink: /teaching
 
 # Teaching
 
-### 2023 
-AERO3000 - Flight Dynamics <i class="fa fa-link"></i> [Syllabus](https://www.newcastle.edu.au/course/AERO3000) 
+SN5851 - Dissertation I
 
-
-### 2021, 2022 
-ME578 - Aircraft Design <i class="fa fa-download"></i> [Syllabus](/downloads/ME578_Teaching_Schedule.pdf) 
+SN5061 - Advanced Methods in Nursing Research 
 
 ### 2020 
 AAE4202 - Electronics & Information Technologies for Unmanned Aircraft Systems <i class="fa fa-download"></i> [Syllabus](/downloads/AAE4202_Teaching_Schedule.pdf) 
