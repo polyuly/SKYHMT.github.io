@@ -9,9 +9,13 @@ permalink: /teaching
 # Teaching
 
 SN5851 - Dissertation I
+
 SN5061 - Advanced Methods in Nursing Research 
+
 HSS1010 - Freshman Seminar
+
 SN2121 - Fundamentals of Nursing Therapeutics I
+
 SN3713 - Mental Health Education and Promotion
 
 ### 2020 
