@@ -9,8 +9,10 @@ permalink: /teaching
 # Teaching
 
 SN5851 - Dissertation I
-
 SN5061 - Advanced Methods in Nursing Research 
+HSS1010 - Freshman Seminar
+SN2121 - Fundamentals of Nursing Therapeutics I
+SN3713 - Mental Health Education and Promotion
 
 ### 2020 
 AAE4202 - Electronics & Information Technologies for Unmanned Aircraft Systems <i class="fa fa-download"></i> [Syllabus](/downloads/AAE4202_Teaching_Schedule.pdf) 
