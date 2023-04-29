@@ -18,32 +18,13 @@ permalink: /research/
 
 ## Research videos
 
-### AI-driven Vaccine Communicator
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YvqXJh0Huxw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Yan Li.; . <i class="fa fa-download"></i> [Download]()
+### AI-driven Vaccine Communicator——Auricle
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=BLwYI15MzEE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<i class="fa fa-download"></i> [Download]
 
-### End to end UAV Simulation Platform (EE2S)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9BQMSVQlo7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Chen S, Chen H, Zhou W, Wen CY, Li B. End-to-End UAV Simulation for Visual SLAM and Navigation. arXiv preprint arXiv:2012.00298. 2020 Dec 1.  <i class="fa fa-download"></i> [Download](https://arxiv.org/abs/2012.00298) 
-
-### UAV-based Autonomous Infrastructure Inspection
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OKSm8_4rhzU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Feng, Y.; Tse, K.; Chen, S.; Wen, C.-Y.; Li, B. Learning-Based Autonomous UAV System for Electrical and Mechanical (E&M) Device Inspection. Sensors 2021, 21, 1385. <i class="fa fa-download"></i> [Download](https://www.mdpi.com/1424-8220/21/4/1385/pdf)
-
-### Vertical Takeoff and Landing (VTOL) Tail-sitter UAV
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kYevywwGgjQ" frameborder="0" allowfullscreen></iframe>
-B. Li, J. Sun, W. Zhou, C.Y. Wen, K.H. Low, and C.K. Chen, “An Optimal Transition Control Method for Tail-sitter VTOL UAVs,” IEEE/ASME Transactions on Mechatronics, vol. 25, no. 5, pp. 2534-2545, 2020
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wyf2jysQK4Y" frameborder="0" allowfullscreen></iframe>
-J. Sun, B. Li, C.Y. Wen, and C.K. Chen, “Model-Aided Wind Estimation Method for a Tail-Sitter Aircraft,” IEEE Transactions on Aerospace and Electronic Systems, vol. 56, no. 2, pp. 1262-1278, 2020.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h6mhPSNC5Vo" frameborder="0" allowfullscreen></iframe>
-B. Li, W. Zhou, J. Sun, C. Y. Wen, and C. K. Chen, “Development of Model Predictive Controller for a Tail-Sitter VTOL UAV in Hover Flight,” Sensors, vol. 18, no. 9, 2018. 
-
-### Search and Rescue UAV System 'PolyU Strike'
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lQ8Za7nsX38" frameborder="0" allowfullscreen></iframe>
-Sun, J.; Li, B.; Jiang, Y.; Wen, C.-Y.	A Camera-Based Target Detection and Positioning UAV System for Search and Rescue (SAR) Purposes. Sensors 2016, 16, 1778. 
-<i class="fa fa-download"></i> [Download](http://www.mdpi.com/1424-8220/16/11/1778/pdf)
+### Spinal Cord Injury Exercises
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zxGHR84AUjw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<i class="fa fa-download"></i> [Download]
 
 ### UAV Communication Relay System
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HxN0oafNmzw" frameborder="0" allowfullscreen></iframe>
