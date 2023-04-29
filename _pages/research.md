@@ -20,9 +20,7 @@ permalink: /research/
 
 ### AI-driven Vaccine Communicator——Auricle
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BLwYI15MzEE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<i class="fa fa-download"></i> [Download]
 
 ### Spinal Cord Injury Exercises
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zxGHR84AUjw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<i class="fa fa-download"></i> [Download]
 
