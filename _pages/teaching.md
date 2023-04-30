@@ -18,8 +18,6 @@ SN2121 - Fundamentals of Nursing Therapeutics I
 
 SN3713 - Mental Health Education and Promotion
 
-### 2020 
-AAE4202 - Electronics & Information Technologies for Unmanned Aircraft Systems <i class="fa fa-download"></i> [Syllabus](/downloads/AAE4202_Teaching_Schedule.pdf) 
 
 <!-- <table style="width:30%">
   <tr>

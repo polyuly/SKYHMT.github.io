@@ -24,18 +24,23 @@ Yan is an Assistant Professor at the [School of Nursing](https://www.polyu.edu.h
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nusring/meeting.jpg" alt="Slide 0" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/jiajia1.jpg" alt="Slide 0" />
         </div>
         <div class="item ">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nusring/interview.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/arkbird_tailsitter.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nusring/group_chrismas.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/strike1.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nusring/inda_japn_visit.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/solar_UAV.png" alt="Slide 3" />
         </div>
-
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Yurong.png" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rov0.jpg" alt="Slide 5" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -47,5 +52,8 @@ Yan is an Assistant Professor at the [School of Nursing](https://www.polyu.edu.h
   </a>
 </div>
 
-
+<figure class="fourth">
+  <a href="https://www.newcastle.edu.au/"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/the-university-of-newcastle-australia-vector-logo.png" style="width: 210px"></a>
+  <!-- <a href="https://www.polyu.edu.hk/aae"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/aaelogo2.png" style="width: 210px"></a> -->
+</figure>
 
