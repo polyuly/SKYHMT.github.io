@@ -1,7 +1,7 @@
 ---
-title: "Polyu Nursing Group: - Home"
+title: "E-Nursing Group at PolyU: - Home"
 layout: homelay
-excerpt: "Nursing Group: Group at HK PolyU"
+excerpt: "E-Nursing Group: at HK PolyU"
 sitemap: false
 permalink: /
 ---
