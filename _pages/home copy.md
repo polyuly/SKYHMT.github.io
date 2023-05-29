@@ -1,7 +1,7 @@
 ---
-title: "Polyu Nursing Group: - Home"
+title: "Digital Mental Health Research Group: - Home"
 layout: homelay
-excerpt: "Nursing Group: Group at HK PolyU"
+excerpt: "Digital Mental Health Research Group at HK PolyU"
 sitemap: false
 permalink: /
 ---

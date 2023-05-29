@@ -1,7 +1,7 @@
 ---
-title: "Polyu Nursing - Research"
+title: "Digital Mental Health Research Group- Research"
 layout: textlay
-excerpt: "Polyu Nursing -- Research"
+excerpt: "Digital Mental Health Research Group-- Research"
 sitemap: false
 permalink: /research/
 ---
