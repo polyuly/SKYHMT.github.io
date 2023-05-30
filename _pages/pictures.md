@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 <!-- # Gallery -->
-## PolyU
+## Research Resource
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_poly_nursing %}
