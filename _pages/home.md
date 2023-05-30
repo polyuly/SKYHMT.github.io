@@ -1,7 +1,7 @@
 ---
-title: "E-Nursing Group at PolyU: - Home"
+title: "Digital Mental Health Research Group at PolyU: - Home"
 layout: homelay
-excerpt: "E-Nursing Group: at HK PolyU"
+excerpt: "Digital Mental Health Research Group at HK PolyU"
 sitemap: false
 permalink: /
 ---
@@ -21,9 +21,6 @@ Yan is an Assistant Professor at the [School of Nursing](https://www.polyu.edu.h
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/meeting.jpg" alt="Slide 0" />
-        </div>
-        <div class="item ">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/interview.jpg" alt="Slide 1" />
         </div>
 
     </div>

@@ -1,7 +1,7 @@
 ---
-title: "Polyu Nursing - Gallery"
+title: "Digital Mental Health Research Group- Gallery"
 layout: piclay
-excerpt: "Polyu Nursing -- Gallery"
+excerpt: "Digital Mental Health Research Group -- Gallery"
 permalink: /pictures/
 ---
 
