@@ -22,7 +22,9 @@ Yan is an Assistant Professor at the [School of Nursing](https://www.polyu.edu.h
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/meeting.jpg" alt="Slide 0" />
         </div>
-
+      <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider_nursing/conference_Lina.jpg" alt="Slide 0" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
