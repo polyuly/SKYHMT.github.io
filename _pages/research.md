@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+# Research Fund
 
 ## Research fields
 1. Spinal Cord Injury Rehabilitation;

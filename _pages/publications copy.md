@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-# Publications
+# Publications and Projects
 **Please visit my [Google Scholar](https://scholar.google.com.hk/citations?user=U5JYohMAAAAJ) or [ORCiD](https://orcid.org/0000-0002-5311-9190) for a full list**
 
 ### Research Highlights
