@@ -11,7 +11,7 @@ permalink: /resources/
 ## Research Videos
 | Italic             |  Block letters |
 :-------------------------:|:-------------------------:
-AI-driven Vaccine Communicator——Auricle ![](https://www.youtube.com/embed/zxGHR84AUjw)  |  Spinal Cord Injury Exercises ![](https://www.youtube.com/embed/zxGHR84AUjw)
+AI-driven Vaccine Communicator——Auricle <iframe width="50%" height="315" src="https://www.youtube.com/embed/BLwYI15MzEE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  |  Spinal Cord Injury Exercises<iframe width="560" height="315" src="https://www.youtube.com/embed/BLwYI15MzEE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### AI-driven Vaccine Communicator——Auricle
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BLwYI15MzEE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
