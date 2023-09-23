@@ -9,13 +9,18 @@ permalink: /resources/
 # Research Resource
 
 ## Research Videos
+<style scoped>
+table {
+  font-size: 25px;
+}
+</style>
 
 <table>
 <tr>
-    <td style="font-size:30">
+    <td>
      AI-driven Vaccine Communicator——Auricle    
     </td>
-    <td style="font-size:30">
+    <td>
     Spinal Cord Injury Exercises 
     </td>
     </tr>
