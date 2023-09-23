@@ -14,7 +14,16 @@ permalink: /resources/
 <table>
 <tr>
     <td>
-### AI-driven Vaccine Communicator——Auricle
+     AI-driven Vaccine Communicator——Auricle
+
+    </td>
+    <td>
+Spinal Cord Injury Exercises
+    </td>
+    </tr>
+
+<tr>
+    <td>
 <iframe width="45%" height="315" src="https://www.youtube.com/embed/BLwYI15MzEE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     </td>
