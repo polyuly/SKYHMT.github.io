@@ -12,19 +12,19 @@ permalink: /resources/
 
 <table>
 <tr>
-    <td style="font-size:20;">
+    <td style="font-size:30">
      AI-driven Vaccine Communicator——Auricle    
     </td>
-    <td style="font-size:20;">
+    <td style="font-size:30">
     Spinal Cord Injury Exercises 
     </td>
     </tr>
 
 <tr>
-    <td>
+    <td style="padding-right:10px;">
 <iframe width="500px" height="300px" src="https://www.youtube.com/embed/BLwYI15MzEE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </td>
-    <td>
+    <td style="padding-right:10px;">
 <iframe width="500px" height="300px" src="https://www.youtube.com/embed/zxGHR84AUjw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </td>
     </tr>
