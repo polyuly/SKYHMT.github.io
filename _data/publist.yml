@@ -1,10 +1,10 @@
-- title: Development of a Solar-Powered Unmanned Aerial Vehicle for Extended Flight Endurance
-  image: solar.png
-  description: Drones 
-  authors: Y. Chu; C. Ho; Y. Lee; B. Li*
+- title: Feasibility and effectiveness of artificial intelligence-driven conversational agents in healthcare interventions - A systematic review of randomized controlled trials
+  image: bias.png
+  description: International Journal of Nursing Studies 
+  authors: Li, Y.*, Liang, S., Zhu, B., Liu, X., Li, J., Chen, D., ... & Bressington, D
   link:
-    url: https://www.mdpi.com/2504-446X/5/2/44
-    display:  Drones (2021)
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0020748923000597
+    display:  International Journal of Nursing Studies (2023)
   highlight: 1
 
 - title: Learning-Based Autonomous UAV System for Electrical and Mechanical (E&M) Device Inspection
