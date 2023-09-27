@@ -42,7 +42,6 @@ table {
 <tr>
   <td> <img src="AI chatbot1.png"  alt="1" width = 500px height = 640px ></td>
   <td><img src="AI chatbot2.png" alt="2" width = 500px height = 640px></td>
-   </tr> 
     </td>
     </tr>
 </table>
