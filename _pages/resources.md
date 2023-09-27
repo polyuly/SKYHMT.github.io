@@ -33,6 +33,18 @@ table {
 <iframe width="500px" height="300px" src="https://www.youtube.com/embed/zxGHR84AUjw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </td>
     </tr>
+<tr>
+    <td>
+     智能疫苗助理的成效研究    
+    </td>
+    </tr>
+
+<tr>
+  <td> <img src="AI chatbot1.png"  alt="1" width = 500px height = 640px ></td>
+  <td><img src="AI chatbot2.png" alt="2" width = 500px height = 640px></td>
+   </tr> 
+    </td>
+    </tr>
 </table>
 
 ### AI-driven Vaccine Communicator——Auricle
